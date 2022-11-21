@@ -1,0 +1,25 @@
+{
+  "name": "form_server",
+  "version": "1.0.0",
+  "description": "Create a form and add monoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushdj2002/Form_server.git"
+  },
+  "author": "Kushal D J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushdj2002/Form_server/issues"
+  },
+  "homepage": "https://github.com/khushdj2002/Form_server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
